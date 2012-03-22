@@ -1,0 +1,10 @@
+# Walking Dead Comic Crawler
+A simple crawler to download the walking dead magazines available at http://walkingdeadbr.com/
+ 
+## Usage
+  bundle install
+  ruby crawler.rb
+
+it will download all the magazines
+
+
